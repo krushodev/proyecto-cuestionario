@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CUESTIONARIO AED II</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Contenedor de inicio -->
+    <div id="start-container">
+      <h2>Práctica Cuestionario AED II</h2>
+      <button id="startButton">Comenzar</button>
+    </div>
+
+    <!-- Contenedor de preguntas -->
+    <div id="quiz-container" class="hidden">
+      <h2 id="question-number">Pregunta <span id="current-question">1</span> / <span id="total-questions">15</span></h2>
+      <div id="question"></div>
+      <div id="options-container"></div>
+      <button id="nextButton" class="hidden">Siguiente</button>
+    </div>
+
+    <!-- Contenedor de resultados -->
+    <div id="result-container" class="hidden">
+      <h2>¡Test terminado!</h2>
+      <p id="score"></p>
+      <button id="restartButton" onclick="location.reload()">Volver</button>
+    </div>
+
+    <!-- Temporizador en la esquina superior -->
+    <div id="timer" class="hidden">Tiempo restante: <span id="time-left">10:00</span></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

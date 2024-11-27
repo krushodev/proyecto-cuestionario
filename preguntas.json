@@ -1,0 +1,1206 @@
+[
+    {
+        "question": "¿Cuál es el propósito principal de la memoria dinámica en programación?",
+        "options": [
+            "Permite definir el tamaño de los arreglos en tiempo de compilación",
+            "Permite gestionar la memoria en tiempo de ejecución",
+            "Es utilizada exclusivamente para almacenamiento de cadenas",
+            "Solo funciona con variables globales"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué define un árbol binario de búsqueda?",
+        "options": [
+            "Cada nodo tiene exactamente dos hijos",
+            "Todos los nodos del lado izquierdo son menores que la raíz, y los del lado derecho son mayores",
+            "Es una estructura lineal ordenada",
+            "Todos los nodos están en un nivel único"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué algoritmo es más eficiente en el peor de los casos para ordenar grandes cantidades de datos?",
+        "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Insertion Sort",
+            "Selection Sort"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "En un grafo no dirigido, ¿qué representa el grado de un nodo?",
+        "options": [
+            "El número de vértices conectados al nodo",
+            "El número de aristas en el grafo",
+            "La distancia mínima a la raíz",
+            "La posición del nodo en la lista de adyacencia"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Cuál es la complejidad de tiempo promedio del algoritmo de búsqueda binaria?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "O(n log n)"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué operación en una pila sigue el principio LIFO (Last In, First Out)?",
+        "options": [
+            "Inserción de un elemento",
+            "Eliminación de un elemento",
+            "Acceso directo a un elemento",
+            "Ordenamiento de elementos"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la principal ventaja de los grafos ponderados sobre los no ponderados?",
+        "options": [
+            "Los grafos ponderados no tienen ciclos",
+            "Permiten calcular distancias o costos asociados entre nodos",
+            "Son más fáciles de implementar",
+            "No requieren matrices de adyacencia"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué tipo de recursividad se presenta cuando una función se llama a sí misma directamente?",
+        "options": [
+            "Recursividad indirecta",
+            "Recursividad infinita",
+            "Recursividad directa",
+            "Recursividad compleja"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué es una lista enlazada?",
+        "options": [
+            "Una colección de elementos en memoria estática",
+            "Una estructura donde cada nodo apunta al siguiente",
+            "Una estructura donde todos los nodos tienen índices consecutivos",
+            "Una lista de elementos en formato de tabla"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué algoritmo de recorrido en grafos utiliza una estructura de cola?",
+        "options": [
+            "DFS (Depth-First Search)",
+            "BFS (Breadth-First Search)",
+            "Dijkstra",
+            "Kruskal"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué define el grado de complejidad O(n^2)?",
+        "options": [
+            "El tiempo de ejecución crece linealmente con el tamaño de entrada",
+            "El tiempo de ejecución es cuadrático respecto al tamaño de entrada",
+            "Es más eficiente que O(log n)",
+            "El algoritmo funciona en tiempo constante"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "En un archivo binario, ¿cómo se almacena la información?",
+        "options": [
+            "En formato legible para el usuario",
+            "En formato binario, como en la memoria interna",
+            "Siempre con una extensión .bin",
+            "Como texto con delimitadores"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es una característica de los algoritmos voraces?",
+        "options": [
+            "Siempre encuentra la solución óptima",
+            "Resuelve problemas dividiendo en subproblemas",
+            "Toma decisiones en base a la mejor opción local",
+            "Utiliza una cola de prioridad para decidir"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué operación no es aplicable directamente a una cola?",
+        "options": [
+            "Inserción al final",
+            "Eliminación al frente",
+            "Acceso aleatorio",
+            "Verificación de tamaño"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué estructura de datos se utiliza comúnmente para implementar una pila?",
+        "options": [
+            "Un arreglo",
+            "Una lista enlazada",
+            "Una tabla hash",
+            "Un árbol binario"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué algoritmo encuentra el árbol de expansión mínima en un grafo?",
+        "options": [
+            "Dijkstra",
+            "Floyd-Warshall",
+            "Prim",
+            "DFS"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál es un caso de uso común para los árboles binarios?",
+        "options": [
+            "Almacenamiento de datos jerárquicos",
+            "Implementación de listas circulares",
+            "Estructuras de datos lineales",
+            "Cálculo de promedios"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué se necesita para implementar correctamente un archivo secuencial?",
+        "options": [
+            "Un índice para acceso aleatorio",
+            "Datos ordenados según una clave",
+            "Estructuras de datos dinámicas",
+            "Un algoritmo de ordenamiento interno"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué se entiende por recursividad infinita?",
+        "options": [
+            "Una recursión que tiene una condición base",
+            "Una recursión sin condición de finalización",
+            "Una recursión que solo se usa en árboles",
+            "Una recursión que llama a funciones externas"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué tipo de algoritmo es Floyd-Warshall?",
+        "options": [
+            "Encuentra el camino más corto entre dos nodos específicos",
+            "Calcula todos los caminos más cortos en un grafo",
+            "Busca árboles de expansión mínima",
+            "Es un algoritmo de ordenamiento"
+        ],
+        "correct": 1
+    },
+ {
+        "question": "¿Qué característica tiene un árbol binario completo?",
+        "options": [
+            "Todos los nodos tienen exactamente dos hijos",
+            "Todos los niveles, excepto posiblemente el último, están completamente llenos",
+            "Tiene un único subárbol izquierdo",
+            "No puede tener hojas en el último nivel"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes es una ventaja de usar listas enlazadas sobre arreglos?",
+        "options": [
+            "Permite acceso aleatorio a los elementos",
+            "Tiene un tamaño fijo",
+            "Elimina la necesidad de memoria dinámica",
+            "Inserciones y eliminaciones son más eficientes"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Qué estructura de datos es más adecuada para una cola de prioridad?",
+        "options": [
+            "Arreglo",
+            "Árbol binario de búsqueda",
+            "Montículo",
+            "Lista enlazada"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué operación es específica de un grafo dirigido?",
+        "options": [
+            "Contar grados de entrada y salida",
+            "Eliminar nodos",
+            "Añadir aristas",
+            "Recorrer nodos"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué define el algoritmo de Kruskal?",
+        "options": [
+            "Encuentra todos los caminos más cortos desde un nodo origen",
+            "Busca el árbol de expansión mínima usando un enfoque de conjuntos disjuntos",
+            "Es un algoritmo de búsqueda en profundidad",
+            "Ordena elementos en tiempo constante"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué es una condición base en recursividad?",
+        "options": [
+            "El caso inicial donde se detiene la recursión",
+            "La función principal que llama a todas las recursivas",
+            "Un caso que siempre genera más llamadas recursivas",
+            "El bucle infinito en una función"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué diferencia hay entre una lista simplemente enlazada y una doblemente enlazada?",
+        "options": [
+            "La lista simplemente enlazada tiene nodos con dos punteros",
+            "La lista doblemente enlazada tiene nodos con punteros hacia adelante y atrás",
+            "La lista doblemente enlazada no permite eliminar nodos",
+            "La lista simplemente enlazada no permite insertar elementos"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la salida de un algoritmo de recorrido en anchura (BFS) en un grafo?",
+        "options": [
+            "Un árbol de expansión mínima",
+            "Una lista de vértices en el orden en que se exploran",
+            "La matriz de adyacencia",
+            "El nodo más lejano al origen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué tipo de archivo permite el acceso directo a registros específicos?",
+        "options": [
+            "Archivo secuencial",
+            "Archivo indexado",
+            "Archivo binario",
+            "Archivo comprimido"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la principal característica de un algoritmo de divide y vencerás?",
+        "options": [
+            "Divide los problemas en partes más pequeñas",
+            "Itera sobre todas las combinaciones posibles",
+            "Resuelve problemas sin dividirlos",
+            "Usa búsqueda exhaustiva para hallar la solución"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué tipo de recursión se da cuando varias funciones se llaman entre sí?",
+        "options": [
+            "Recursión directa",
+            "Recursión indirecta",
+            "Recursión infinita",
+            "Recursión múltiple"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué estructura de datos es más adecuada para resolver un problema con backtracking?",
+        "options": [
+            "Pila",
+            "Cola",
+            "Lista enlazada",
+            "Arreglo"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué significa que un grafo sea conexo?",
+        "options": [
+            "Tiene ciclos",
+            "Existe un camino entre cualquier par de nodos",
+            "Todos los nodos tienen el mismo grado",
+            "No tiene aristas múltiples"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué operación en una pila permite revisar el elemento superior sin eliminarlo?",
+        "options": [
+            "Push",
+            "Pop",
+            "Peek",
+            "Insert"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué algoritmo utiliza la matriz de adyacencia para calcular caminos mínimos?",
+        "options": [
+            "Dijkstra",
+            "Kruskal",
+            "Floyd-Warshall",
+            "Prim"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué define una lista circular?",
+        "options": [
+            "Una lista donde todos los nodos tienen punteros nulos",
+            "Una lista enlazada donde el último nodo apunta al primero",
+            "Una lista estática de tamaño fijo",
+            "Una lista con nodos desordenados"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué complejidad tiene el mejor caso de Quick Sort?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la principal ventaja de los árboles AVL?",
+        "options": [
+            "Permiten duplicados",
+            "Son árboles binarios balanceados",
+            "No requieren reestructuración al insertar",
+            "Tienen nodos con múltiples claves"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué técnica utiliza el algoritmo de Prim para encontrar el árbol de expansión mínima?",
+        "options": [
+            "Divide y vencerás",
+            "Programación dinámica",
+            "Enfoque voraz",
+            "Búsqueda exhaustiva"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué representa una cola en programación?",
+        "options": [
+            "Una estructura FIFO (First In, First Out)",
+            "Una estructura LIFO (Last In, First Out)",
+            "Una estructura de acceso aleatorio",
+            "Una lista estática"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué operación se utiliza para insertar un elemento en una pila?",
+        "options": [
+            "Pop",
+            "Push",
+            "Peek",
+            "Insert"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué estructura de datos utiliza una lista de adyacencia para representar grafos?",
+        "options": [
+            "Arreglo bidimensional",
+            "Lista enlazada",
+            "Montículo",
+            "Árbol binario"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la complejidad de tiempo promedio de búsqueda en un árbol binario de búsqueda balanceado?",
+        "options": [
+            "O(log n)",
+            "O(n)",
+            "O(n^2)",
+            "O(1)"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué técnica de programación se utiliza en el algoritmo de Floyd-Warshall?",
+        "options": [
+            "Divide y vencerás",
+            "Programación dinámica",
+            "Búsqueda en profundidad",
+            "Algoritmos voraces"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué define a una cola de doble extremo (deque)?",
+        "options": [
+            "Permite inserciones y eliminaciones solo en un extremo",
+            "Permite inserciones y eliminaciones en ambos extremos",
+            "Es una cola con prioridad",
+            "Es una pila especial con acceso aleatorio"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es una ventaja de usar punteros en C?",
+        "options": [
+            "Acceso directo a memoria",
+            "Mayor legibilidad del código",
+            "Evita la necesidad de estructuras dinámicas",
+            "Siempre mejora el rendimiento"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué propiedad tiene un grafo acíclico dirigido (DAG)?",
+        "options": [
+            "No tiene ciclos",
+            "Es completamente conexo",
+            "Tiene aristas bidireccionales",
+            "Todos los nodos tienen el mismo grado"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Cuál es el resultado de intentar recorrer un árbol binario vacío?",
+        "options": [
+            "Se devuelve un error",
+            "No se realiza ninguna operación",
+            "Se devuelve el valor raíz como nulo",
+            "El árbol se inicializa automáticamente"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué estructura es más adecuada para implementar un sistema LRU (Least Recently Used)?",
+        "options": [
+            "Lista enlazada doble",
+            "Cola",
+            "Pila",
+            "Árbol binario"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué indica el operador & en C?",
+        "options": [
+            "El valor absoluto de un número",
+            "La dirección de memoria de una variable",
+            "La referencia a un objeto",
+            "Una operación lógica AND"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué es un nodo hoja en un árbol binario?",
+        "options": [
+            "Un nodo que tiene dos hijos",
+            "Un nodo que no tiene hijos",
+            "Un nodo que es la raíz",
+            "Un nodo que tiene solo un hijo"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la principal desventaja de la recursión?",
+        "options": [
+            "Ocupa más memoria debido al uso de la pila",
+            "Es más rápida que la iteración",
+            "No puede implementarse en lenguajes modernos",
+            "Es más difícil de leer que la iteración"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué se almacena típicamente en una matriz de adyacencia de un grafo ponderado?",
+        "options": [
+            "La lista de nodos vecinos",
+            "Los pesos de las aristas entre los nodos",
+            "Los grados de entrada y salida",
+            "Las distancias más cortas"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué define el recorrido inorden en un árbol binario?",
+        "options": [
+            "Visita primero el nodo raíz, luego los subárboles izquierdo y derecho",
+            "Visita primero el subárbol izquierdo, luego la raíz, y finalmente el subárbol derecho",
+            "Visita primero el subárbol derecho, luego la raíz, y finalmente el subárbol izquierdo",
+            "Visita todos los nodos en orden aleatorio"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué significa que un árbol binario esté balanceado?",
+        "options": [
+            "Todos los nodos tienen al menos dos hijos",
+            "La diferencia de altura entre los subárboles izquierdo y derecho de cualquier nodo es como máximo 1",
+            "El árbol tiene el mismo número de nodos en ambos lados",
+            "Todos los niveles del árbol están completamente llenos"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué técnica utiliza Dijkstra para calcular caminos más cortos?",
+        "options": [
+            "Divide y vencerás",
+            "Recursión",
+            "Enfoque voraz",
+            "Backtracking"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué estructura de datos se usa típicamente en una implementación de BFS?",
+        "options": [
+            "Pila",
+            "Cola",
+            "Lista enlazada",
+            "Montículo"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué significa que un archivo esté en formato binario?",
+        "options": [
+            "Los datos se almacenan como texto legible",
+            "Los datos se almacenan en formato interno no legible para el usuario",
+            "El archivo solo puede contener números",
+            "El archivo no puede abrirse con editores de texto"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué operación realiza la función malloc en C?",
+        "options": [
+            "Reserva memoria estática",
+            "Reserva memoria dinámica",
+            "Libera memoria previamente reservada",
+            "Inicializa un puntero a NULL"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué tipo de problemas son adecuados para resolver con programación dinámica?",
+        "options": [
+            "Problemas que se pueden dividir en subproblemas independientes",
+            "Problemas que no tienen estructura recursiva",
+            "Problemas de ordenamiento",
+            "Problemas donde la solución requiere explorar todos los casos posibles"
+        ],
+        "correct": 0
+    },
+{
+        "question": "¿Qué define una lista doblemente enlazada?",
+        "options": [
+            "Cada nodo tiene punteros al siguiente y al anterior",
+            "Los nodos están ordenados de manera automática",
+            "Cada nodo contiene exactamente dos hijos",
+            "Es una lista donde el último nodo apunta al primero"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué operación realiza la función malloc en C?",
+        "options": [
+            "Libera memoria previamente asignada",
+            "Reserva memoria dinámica",
+            "Asigna un puntero a NULL",
+            "Cierra un archivo binario"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione las características de un grafo ponderado.",
+        "options": [
+            "Cada arista tiene un peso asociado",
+            "Todas las aristas son bidireccionales",
+            "Tiene nodos con múltiples grados",
+            "No tiene ciclos ni componentes conexos"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué significa el operador & en C?",
+        "options": [
+            "El valor absoluto de un número",
+            "La dirección de memoria de una variable",
+            "Una operación de suma binaria",
+            "Una operación lógica OR"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Elija el resultado del recorrido preorden para el siguiente árbol:",
+        "code": "   8\n  / \\\n 3   10\n/ \\    \\\n1  6    14",
+        "options": [
+            "1, 3, 6, 8, 10, 14",
+            "8, 3, 1, 6, 10, 14",
+            "3, 1, 6, 8, 10, 14",
+            "10, 8, 6, 3, 14, 1"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Qué caracteriza a una cola circular?",
+        "options": [
+            "El último nodo apunta al primero",
+            "Es una cola con nodos en orden descendente",
+            "Tiene múltiples extremos de inserción",
+            "Permite acceso aleatorio a los nodos"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Dado el siguiente código, ¿cuál es el error?",
+        "code": "typedef struct nodo {\n  int dato;\n  struct nodo *siguiente;\n} Lista;\n\nLista lista = NULL;",
+        "options": [
+            "Falta el typedef para 'Lista'",
+            "No se inicializa correctamente 'lista'",
+            "El puntero 'siguiente' no está definido",
+            "El campo 'dato' no tiene tipo definido"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione las premisas de la recursividad:",
+        "options": [
+            "Debe tener un caso base que termine la recursión",
+            "Debe ser más rápida que la iteración",
+            "Requiere funciones externas para ejecutarse",
+            "Solo se aplica a problemas matemáticos"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué complejidad tiene la búsqueda binaria en el mejor caso?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(1)",
+            "O(n^2)"
+        ],
+        "correct": 6
+    },
+    {
+        "question": "Seleccione las características correctas de los árboles AVL.",
+        "options": [
+            "Siempre son árboles completos",
+            "Son árboles binarios de búsqueda balanceados",
+            "Solo permiten inserción de enteros",
+            "Requieren matrices para su implementación"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de una pila en programación?",
+        "options": [
+            "Almacenar datos de manera FIFO",
+            "Almacenar datos de manera LIFO",
+            "Proveer acceso aleatorio a los elementos",
+            "Gestionar datos en forma circular"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione las funciones que permiten manejo de archivos en C:",
+        "options": [
+            "fopen, fclose, fread",
+            "malloc, realloc, free",
+            "push, pop, top",
+            "insert, delete, search"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "En el siguiente grafo, indique qué tipo de recorrido sería más adecuado para encontrar el camino más corto:",
+        "code": "E={(A,B),(A,C),(B,C),(C,D),(D,E)}",
+        "options": [
+            "DFS",
+            "BFS",
+            "Backtracking",
+            "Divide y vencerás"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Qué define un árbol binario de búsqueda?",
+        "options": [
+            "Un árbol con nodos en niveles balanceados",
+            "Un árbol donde los nodos izquierdos son menores que la raíz y los derechos mayores",
+            "Un árbol donde cada nodo tiene dos hijos",
+            "Un árbol donde los nodos se insertan en orden ascendente"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione las ventajas de usar listas enlazadas frente a arreglos.",
+        "options": [
+            "Permiten crecimiento dinámico",
+            "Facilitan acceso aleatorio",
+            "Requieren menos memoria siempre",
+            "Son más rápidas en todos los casos"
+        ],
+        "correct": 4
+    },
+ {
+        "question": "¿Qué representa el grado de un nodo en un grafo?",
+        "options": [
+            "El número de conexiones o aristas que tiene el nodo",
+            "El índice del nodo en la matriz de adyacencia",
+            "El peso total de las aristas conectadas",
+            "La posición del nodo en el recorrido BFS"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué define una lista enlazada simple?",
+        "options": [
+            "Cada nodo apunta al siguiente nodo en la lista",
+            "Cada nodo tiene dos punteros: uno al siguiente y otro al anterior",
+            "Todos los nodos están conectados en un ciclo",
+            "Es una lista que permite acceso aleatorio"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Qué estructura de datos es ideal para implementar una pila?",
+        "options": [
+            "Arreglo",
+            "Lista enlazada",
+            "Tabla hash",
+            "Árbol binario"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Qué propiedad caracteriza a los grafos dirigidos?",
+        "options": [
+            "Cada arista tiene una dirección específica",
+            "No tienen ciclos",
+            "Todas las aristas tienen el mismo peso",
+            "Todos los nodos están conectados entre sí"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Dado el siguiente código de una función recursiva, ¿qué condición falta?",
+        "code": "int factorial(int n) {\n  if (n > 1)\n    return n * factorial(n - 1);\n}",
+        "options": [
+            "Un caso base para detener la recursión",
+            "Una inicialización de la variable de retorno",
+            "Un valor predeterminado para n",
+            "Un parámetro adicional para el caso base"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué tipo de operación se utiliza en el algoritmo de corte de control?",
+        "options": [
+            "Lectura secuencial y comparación",
+            "Búsqueda binaria",
+            "Inserción en orden ascendente",
+            "Combinación de múltiples archivos"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Cuál es la salida de un recorrido inorden en un árbol binario?",
+        "code": "  10\n /  \\\n5    15\n/ \\  / \\\n3  7 12 20",
+        "options": [
+            "10, 5, 3, 7, 15, 12, 20",
+            "3, 5, 7, 10, 12, 15, 20",
+            "15, 12, 20, 10, 5, 3, 7",
+            "5, 3, 7, 10, 15, 12, 20"
+        ],
+        "correct": 6
+    },
+    {
+        "question": "Seleccione las ventajas de los árboles AVL.",
+        "options": [
+            "Permiten inserciones y eliminaciones rápidas manteniendo el balance",
+            "Requieren menos memoria que otros árboles binarios",
+            "Siempre tienen una altura fija",
+            "Pueden construirse sin claves únicas"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué tipo de búsqueda utiliza un grafo no dirigido para encontrar el camino más corto?",
+        "options": [
+            "DFS (Depth-First Search)",
+            "BFS (Breadth-First Search)",
+            "Algoritmo de Prim",
+            "Backtracking"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Qué operación realiza realloc en C?",
+        "options": [
+            "Reserva memoria dinámica adicional",
+            "Reasigna y redimensiona memoria previamente asignada",
+            "Libera memoria previamente asignada",
+            "Inicializa punteros a NULL"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione los casos en los que se usa un árbol binario de búsqueda.",
+        "options": [
+            "Para organizar jerárquicamente datos alfabéticos",
+            "Para implementar una pila",
+            "Para simular un grafo dirigido",
+            "Para ordenar números enteros sin duplicados"
+        ],
+        "correct": [4, 7]
+    },
+    {
+        "question": "Dado el siguiente árbol binario, ¿cuál es el recorrido en postorden?",
+        "code": "  8\n / \\\n3   10\n/ \\    \\\n1   6    14",
+        "options": [
+            "1, 6, 3, 14, 10, 8",
+            "8, 3, 6, 1, 10, 14",
+            "14, 10, 6, 3, 8, 1",
+            "3, 1, 6, 10, 8, 14"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué técnica utiliza el algoritmo de Dijkstra?",
+        "options": [
+            "Divide y vencerás",
+            "Algoritmos voraces",
+            "Programación dinámica",
+            "Recursión múltiple"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "¿Qué operación realiza la función fclose en C?",
+        "options": [
+            "Cierra un archivo abierto",
+            "Libera memoria asignada a un puntero",
+            "Borra un archivo del disco",
+            "Detiene el flujo de datos hacia un archivo"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Cuál es una característica de la recursión directa?",
+        "options": [
+            "Una función se llama a sí misma",
+            "Dos funciones se llaman mutuamente",
+            "Se implementa usando bucles",
+            "Solo se utiliza en árboles binarios"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Seleccione las funciones utilizadas en operaciones básicas de archivos binarios en C:",
+        "options": [
+            "fopen, fread, fwrite, fclose",
+            "malloc, calloc, realloc, free",
+            "scanf, printf, fgets, fclose",
+            "insert, delete, search, display"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué define un árbol binario completo?",
+        "options": [
+            "Cada nodo tiene al menos dos hijos",
+            "Todos los niveles, excepto el último, están completamente llenos",
+            "Todos los nodos están al mismo nivel",
+            "Solo tiene nodos hoja"
+        ],
+        "correct": 5
+    },
+{
+        "question": "Dado el siguiente fragmento de código de una lista enlazada, ¿cuál es el error en la implementación?",
+        "code": "typedef struct nodo {\n  int dato;\n  struct nodo *siguiente;\n} Lista;\n\nLista *inicio;\nvoid agregarNodo(int valor) {\n  Lista nuevoNodo;\n  nuevoNodo->dato = valor;\n  nuevoNodo->siguiente = inicio;\n  inicio = &nuevoNodo;\n}",
+        "options": [
+            "El puntero 'nuevoNodo' no apunta a memoria dinámica",
+            "Falta inicializar 'inicio' como NULL antes de agregar elementos",
+            "El nodo 'nuevoNodo' no está correctamente referenciado",
+            "El uso de '&nuevoNodo' es incorrecto porque apunta a una variable local"
+        ],
+        "correct": 7
+    },
+    {
+        "question": "Seleccione las características correctas sobre colas en programación:",
+        "options": [
+            "Siguen el principio FIFO",
+            "Permiten inserción y eliminación en ambos extremos",
+            "Son útiles para simulaciones y algoritmos BFS",
+            "Se implementan típicamente usando listas enlazadas o arreglos"
+        ],
+        "correct": [4, 6, 7]
+    },
+    {
+        "question": "En un árbol binario de búsqueda, ¿qué pasa si se intenta insertar un elemento duplicado?",
+        "options": [
+            "El elemento se ignora",
+            "El árbol entra en un estado inconsistente",
+            "El nodo se agrega como hijo derecho del nodo existente",
+            "El comportamiento depende de la implementación específica"
+        ],
+        "correct": 7
+    },
+    {
+        "question": "Seleccione las afirmaciones correctas sobre el algoritmo de Dijkstra:",
+        "options": [
+            "Es un algoritmo voraz",
+            "Encuentra el camino más corto desde un nodo fuente a todos los demás nodos",
+            "Funciona solo en grafos no dirigidos",
+            "Requiere que todas las aristas tengan pesos positivos"
+        ],
+        "correct": [4, 6, 7]
+    },
+    {
+        "question": "En el siguiente código de pila, ¿qué línea contiene un error lógico?",
+        "code": "typedef struct nodo {\n  int valor;\n  struct nodo *siguiente;\n} Pila;\n\nPila *tope = NULL;\nvoid push(int dato) {\n  Pila *nuevo = malloc(sizeof(Pila));\n  nuevo->valor = dato;\n  nuevo->siguiente = tope;\n  tope = nuevo;\n}\n\nint pop() {\n  if (tope == NULL) return -1;\n  int valor = tope->valor;\n  free(tope);\n  return valor;\n}",
+        "options": [
+            "El puntero 'tope' no se actualiza tras liberar el nodo",
+            "Falta verificar si malloc devuelve NULL",
+            "El valor retornado por 'pop()' podría ser incorrecto",
+            "El nodo liberado se usa antes de liberar memoria"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Seleccione la salida del siguiente recorrido preorden en el árbol binario:",
+        "code": "      12\n    /    \\\n   7      15\n  / \\    /  \\\n 4   9  13   20",
+        "options": [
+            "12, 7, 4, 9, 15, 13, 20",
+            "4, 7, 9, 12, 13, 15, 20",
+            "15, 7, 12, 9, 4, 20, 13",
+            "7, 4, 9, 12, 15, 13, 20"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué define una matriz de adyacencia?",
+        "options": [
+            "Una matriz que almacena la conectividad entre nodos en un grafo",
+            "Una representación de un árbol binario balanceado",
+            "Un método para recorrer árboles binarios",
+            "Una lista de nodos con sus niveles de jerarquía"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Seleccione las funciones utilizadas en operaciones básicas con archivos binarios en C:",
+        "options": [
+            "fopen, fclose, fread, fwrite",
+            "scanf, printf, fgets, fclose",
+            "malloc, calloc, realloc, free",
+            "insert, delete, search, display"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Dado un algoritmo de búsqueda secuencial, ¿qué condición es innecesaria para que funcione?",
+        "options": [
+            "El arreglo debe estar ordenado",
+            "El arreglo puede contener duplicados",
+            "Debe conocer la longitud del arreglo",
+            "Debe ser un arreglo de enteros"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Seleccione las estructuras de datos no lineales:",
+        "options": [
+            "Listas y pilas",
+            "Árboles y grafos",
+            "Colas y listas circulares",
+            "Matrices y arreglos"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione la función que se utiliza para liberar memoria dinámica en C:",
+        "options": [
+            "malloc",
+            "realloc",
+            "free",
+            "calloc"
+        ],
+        "correct": 6
+    },
+    {
+        "question": "En un archivo binario en C, ¿qué ocurre si se utiliza la función fwrite sin haber abierto el archivo en modo binario?",
+        "options": [
+            "El archivo se abre automáticamente en modo binario",
+            "Se genera un error en tiempo de ejecución",
+            "Los datos podrían escribirse incorrectamente",
+            "La función fwrite se comporta igual en todos los modos"
+        ],
+        "correct": 7
+    },
+    {
+        "question": "¿Qué tipo de algoritmo es Floyd-Warshall?",
+        "options": [
+            "Divide y vencerás",
+            "Programación dinámica",
+            "Algoritmo voraz",
+            "Backtracking"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione las afirmaciones correctas sobre la memoria dinámica en C:",
+        "options": [
+            "Se utiliza para asignar memoria en tiempo de ejecución",
+            "Requiere liberar manualmente la memoria para evitar fugas",
+            "malloc inicializa la memoria a cero automáticamente",
+            "calloc asigna bloques de memoria inicializados a cero"
+        ],
+        "correct": [4, 6, 7]
+    },
+  {
+        "question": "Dado el siguiente código de una cola circular, ¿cuál es el error lógico?",
+        "code": "typedef struct {\n  int elementos[5];\n  int frente, final;\n} ColaCircular;\n\nvoid encolar(ColaCircular *cola, int valor) {\n  if ((cola->final + 1) % 5 == cola->frente) {\n    printf(\"Cola llena\");\n  } else {\n    cola->final = (cola->final + 1) % 5;\n    cola->elementos[cola->final] = valor;\n  }\n}\n\nint desencolar(ColaCircular *cola) {\n  if (cola->frente == cola->final) {\n    printf(\"Cola vacía\");\n    return -1;\n  } else {\n    cola->frente = (cola->frente + 1) % 5;\n    return cola->elementos[cola->frente];\n  }\n}",
+        "options": [
+            "El índice 'frente' no avanza correctamente al desencolar",
+            "El índice 'final' se calcula incorrectamente en encolar",
+            "No se utiliza una variable adicional para indicar si la cola está vacía o llena",
+            "El tamaño de la cola debería ser dinámico en lugar de fijo"
+        ],
+        "correct": 7
+    },
+    {
+        "question": "Seleccione las características correctas de los árboles binarios completos:",
+        "options": [
+            "Todos los niveles están completamente llenos, excepto posiblemente el último",
+            "Todos los nodos tienen exactamente dos hijos",
+            "Todos los nodos hoja están en el mismo nivel",
+            "Cada nivel tiene 2^h nodos, donde h es la altura del árbol"
+        ],
+        "correct": [4, 7]
+    },
+    {
+        "question": "Seleccione las aplicaciones comunes de los árboles binarios de búsqueda:",
+        "options": [
+            "Implementación de bases de datos jerárquicas",
+            "Almacenamiento y búsqueda de claves únicas",
+            "Cálculo de operaciones matemáticas complejas",
+            "Construcción de índices en motores de búsqueda"
+        ],
+        "correct": [4, 6, 7]
+    },
+    {
+        "question": "En un grafo dirigido con pesos negativos, ¿qué algoritmo es más adecuado para calcular caminos más cortos?",
+        "options": [
+            "Dijkstra",
+            "Floyd-Warshall",
+            "Bellman-Ford",
+            "Prim"
+        ],
+        "correct": 6
+    },
+    {
+        "question": "Seleccione las afirmaciones correctas sobre memoria dinámica en C:",
+        "options": [
+            "malloc y calloc asignan memoria en tiempo de ejecución",
+            "free libera la memoria asignada dinámicamente",
+            "calloc inicializa la memoria a ceros",
+            "malloc inicializa la memoria a valores aleatorios"
+        ],
+        "correct": [4, 6, 7]
+    },
+    {
+        "question": "Seleccione la salida correcta del recorrido inorden para el siguiente árbol binario:",
+        "code": "      50\n     /  \\\n   30    70\n  /  \\  /  \\\n 20  40 60  80",
+        "options": [
+            "50, 30, 20, 40, 70, 60, 80",
+            "20, 30, 40, 50, 60, 70, 80",
+            "30, 20, 40, 50, 60, 80, 70",
+            "20, 40, 30, 60, 80, 70, 50"
+        ],
+        "correct": 5
+    },
+    {
+        "question": "Seleccione las propiedades correctas de un árbol AVL:",
+        "options": [
+            "Es un árbol binario de búsqueda balanceado",
+            "La diferencia de alturas entre subárboles de cualquier nodo es como máximo 1",
+            "Siempre es un árbol binario completo",
+            "Se utiliza para implementar montículos"
+        ],
+        "correct": [4, 6]
+    },
+    {
+        "question": "Dado el siguiente código de una lista doblemente enlazada, ¿cuál es el error lógico?",
+        "code": "typedef struct nodo {\n  int dato;\n  struct nodo *anterior, *siguiente;\n} Nodo;\n\nNodo *inicio = NULL;\n\nvoid insertarInicio(int valor) {\n  Nodo *nuevo = malloc(sizeof(Nodo));\n  nuevo->dato = valor;\n  nuevo->anterior = NULL;\n  nuevo->siguiente = inicio;\n  if (inicio != NULL) inicio->anterior = nuevo;\n  inicio = nuevo;\n}\n\nvoid eliminarInicio() {\n  if (inicio == NULL) return;\n  Nodo *temp = inicio;\n  inicio = inicio->siguiente;\n  free(temp);\n}",
+        "options": [
+            "No se actualiza el puntero 'anterior' del nuevo nodo en insertarInicio",
+            "El puntero 'inicio' no se verifica correctamente antes de liberar memoria",
+            "Falta inicializar 'inicio' como NULL al inicio del programa",
+            "Falta actualizar el puntero 'anterior' del nodo 'inicio' tras eliminar"
+        ],
+        "correct": 7
+    },
+    {
+        "question": "Seleccione las afirmaciones correctas sobre la recursión:",
+        "options": [
+            "Una función recursiva debe tener un caso base para detenerse",
+            "Se utiliza comúnmente en problemas de árboles y grafos",
+            "Es más eficiente en memoria que las iteraciones",
+            "Se basa en dividir el problema en subproblemas más pequeños"
+        ],
+        "correct": [4, 6, 7]
+    },
+    {
+        "question": "¿Qué define un grafo completo?",
+        "options": [
+            "Cada nodo está conectado directamente con todos los demás",
+            "Tiene un ciclo Euleriano garantizado",
+            "No contiene ciclos ni componentes desconexos",
+            "Todas las aristas tienen el mismo peso"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Seleccione las funciones que permiten la lectura en un archivo binario en C:",
+        "options": [
+            "fopen, fread",
+            "fscanf, fprintf",
+            "fgets, fclose",
+            "malloc, free"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "¿Qué define la complejidad temporal de O(log n)?",
+        "options": [
+            "La cantidad de operaciones crece logarítmicamente con el tamaño de entrada",
+            "El tiempo de ejecución es constante",
+            "La cantidad de operaciones es directamente proporcional al tamaño de entrada",
+            "El tiempo de ejecución se duplica con cada nueva entrada"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Seleccione las afirmaciones correctas sobre pilas:",
+        "options": [
+            "Siguen el principio LIFO (Last In, First Out)",
+            "La operación push inserta un elemento en la parte superior",
+            "La operación pop elimina el elemento inferior",
+            "Se utilizan en la evaluación de expresiones matemáticas"
+        ],
+        "correct": [4, 6, 7]
+    }
+
+
+]
